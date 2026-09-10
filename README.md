@@ -90,4 +90,4 @@ O programa recalcula a geração solar e o consumo, mostra o novo balanço energ
 
 ##  Ficha da Missão
 
-O documento [`Ficha_da_Missao.pdf`](./Ficha_da_Missao.pdf) traz o objetivo completo do projeto, os dados selecionados, os indicadores do Programa 1 e a lógica de decisão do Programa 2, com exemplos reais de execução.
+O documento [Ficha da Missão](./CP1%20-%202sem.pdf) traz o objetivo completo do projeto, os dados selecionados, os indicadores do Programa 1 e a lógica de decisão do Programa 2, com exemplos reais de execução.
