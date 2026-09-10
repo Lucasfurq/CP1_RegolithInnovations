@@ -25,7 +25,7 @@ CP1_Regolith_Innovations/
 ├── dados_lunar.py      # Base de dados (reservatórios, consumo, geração solar, baterias etc.)
 ├── Programa_1.py        # Monitoramento e diagnóstico automático
 ├── Programa_2.py        # Simulação interativa de cenários
-├── Ficha_da_Missao.pdf  # Documento com objetivo, dados, indicadores e decisão esperada
+├── CP1 - 2sem.pdf  # Documento com objetivo, dados, indicadores e decisão esperada
 └── README.md
 ```
 
